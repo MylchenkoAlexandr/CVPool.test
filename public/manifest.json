@@ -1,0 +1,12 @@
+
+{
+  "name": "CodeSandbox",
+  "short_name": "CodeSandbox",
+  "icons": [],
+  "description": "An online editor tailored for web applications",
+  "start_url": "/dashboard?utm_source=homescreen",
+  "scope": "/s/",
+  "display": "standalone",
+  "background_color": "#1C2022",
+  "theme_color": "#1C2022"
+}
